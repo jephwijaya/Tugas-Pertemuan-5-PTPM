@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas PTPM 5</string>
+    <string name="title_fragment_pertama">Fragment 1</string>
+    <string name="title_fragment_kedua">Fragment 2</string>
+</resources>
